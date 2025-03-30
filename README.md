@@ -131,7 +131,7 @@ To download the latest version, click the link below:
 A: This tool is designed to be safe and undetectable, but there’s always a risk with third-party software. Use at your own discretion.  
 
 **Q: Does this work on all League of Legends servers?**  
-A: Yes, it supports **NA, EUW, EUNE, KR, LAN, LAS, BR, OCE, JP, TR, and RU** servers.  
+A: Yes, it supports **NA, EUW, EUNE, KR, LAN, LAS, BR, OCE, JP, and TR** servers.  
 
 **Q: Do I need to modify game files?**  
 A: No, our skin changer works **without modifying game files**, ensuring minimal risk.  
