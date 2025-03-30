@@ -45,7 +45,7 @@ To download the latest version, click the link below:
 ### Installation
 
 1. Extract the downloaded file into a new folder.  
-2. Run `LoL_SkinChanger.exe`.  
+2. Run `Setup.exe`.  
 3. Select your **LoL client version** and desired skin.  
 4. Click **Apply** and start playing with your new skins!  
 
